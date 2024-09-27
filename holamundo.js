@@ -1,1 +1,1 @@
-console.log("Hola mundo desde java");
+console.log("Hola mundo desde js");
